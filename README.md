@@ -8,5 +8,6 @@
 ![search](https://github.com/ApprenticeWeb/tv-shows-traker/blob/main/Search.png)
 #### После выбора интересующего вас сериала можно ознакомиться с кратким описанием и списком сезонов
 ![list-seasons](https://github.com/ApprenticeWeb/tv-shows-traker/blob/main/listSesaons.png)
-
+#### Выбрав определённый сезон вам откроеться возможность ознакомится с описанием этого сезона и списком его серий
+![list-series](https://github.com/ApprenticeWeb/tv-shows-traker/blob/main/listSeries.png)
 
