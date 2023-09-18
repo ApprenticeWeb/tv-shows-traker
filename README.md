@@ -1,6 +1,6 @@
 # tv-shows-traker
 Приложение для мониторинга сериалов.</br> 
-В приложение в качестве источника данных использует -- REST API [TV MAZE](https://www.tvmaze.com/apihttps://www.tvmaze.com/api).
+В приложение в качестве источника данных использует -- REST API [TV MAZE](https://www.tvmaze.com/apihttps://www.tvmaze.com/api).</br>
 В Приложении исппользовался стек технологий: `React`, `Redux(Thunk)`, `TypeScript`, `BEM`
 ### `npm i`
 Команда для установки пакетов
