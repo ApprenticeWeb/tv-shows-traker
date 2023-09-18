@@ -10,4 +10,5 @@
 ![list-seasons](https://github.com/ApprenticeWeb/tv-shows-traker/blob/main/listSesaons.png)
 #### Выбрав определённый сезон вам откроеться возможность ознакомится с описанием этого сезона и списком его серий
 ![list-series](https://github.com/ApprenticeWeb/tv-shows-traker/blob/main/listSeries.png)
-
+#### Определившись с серией можно ознакомиться с её описанием
+![series](https://github.com/ApprenticeWeb/tv-shows-traker/blob/main/series.png)
