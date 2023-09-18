@@ -5,6 +5,6 @@
 
 ## О Приложении.
 Приложение и меет Функционал поиска по списку сериалов (на английском языке)
-![search](https://github.com/ApprenticeWeb/tv-shows-traker/commit/c8a0582d92fc843e209e098a2c41910fad2c51ce)
+![search](https://github.com/ApprenticeWeb/tv-shows-traker/blob/main/Search.png)
 
 
